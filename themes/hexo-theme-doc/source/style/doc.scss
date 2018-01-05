@@ -1,0 +1,11 @@
+$doc-color-primary: #00cc99; // set primary color to "red"
+@import "_doc/index";
+
+.doc-sidebar-list__item--label:not(.doc-sidebar-list__item--has-children) {
+  padding-top: 16px;
+  font-size: 16px;
+}
+
+.doc-sidebar-list__item--label {
+  margin-top: 5px;
+}
