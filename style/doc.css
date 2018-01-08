@@ -3855,3 +3855,6 @@ body {
 
 .doc-sidebar-list__item--label {
   margin-top: 5px; }
+
+.dc-page {
+  max-width: 960px; }
